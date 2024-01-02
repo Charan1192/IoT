@@ -2,6 +2,7 @@
 
 Open the Jupyter Notebook or Python script in Google Colab.
 Run each code cell to execute the machine learning pipeline for each classifier.
+
 **Decision Tree Classifier**
 
 The Decision Tree Classifier is implemented using the scikit-learn library. The code includes a hyperparameter tuning step using GridSearchCV to optimize the model.
@@ -19,6 +20,7 @@ The Support Vector Machine (SVM) Classifier is implemented using the scikit-lear
 The Random Forest Classifier implementation is added to the repository. It offers an ensemble approach to classification, enhancing the predictive performance.
 
 **Data**
+
 The dataset used for this project is available in the file 'clean.csv'. It includes features and a target variable for classification.
 
 **Acknowledgments**
